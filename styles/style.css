@@ -1,26 +1,25 @@
 body {
-	font-family: helveticaneue, sans-serif;
+	font-family: 'helvetica neue', sans-serif;
 	background-color: #e7e7e7;
 	color: red;
 }
 .container-full-width {
 	background-color: #ffffff;
-	box-shadow:	4px 4px 5px #777777;
-    margin: auto;
-    width: 95%;
+	box-shadow: 4px 4px 5px #777777;
+	margin: auto;
+	width: 95%;
 }
 .card {
-   background-color: #ffffff;
-    box-shadow: 4px 4px 5px #777777;
-    color: darkslategrey;
-    text-align: center;
-    padding: 0px 10px 0px 10px;
-    margin: 4px;
-    width: 30%;
-    min-width: 300px;
-    min-height: 300px;
-    float: left;
-    
+	background-color: #ffffff;
+	box-shadow: 4px 4px 5px #777777;
+	color: darkslategrey;
+	text-align: center;
+	padding: 0px 10px 0px 10px;
+	margin: 4px;
+	width: 30%;
+	min-width: 300px;
+	min-height: 300px;
+	float: left;
 }
 
 h1 {
@@ -30,6 +29,6 @@ h1 {
 }
 
 .container-full-trans {
-   margin: auto;
-    width: 95%;
+	margin: auto;
+	width: 95%;
 }
